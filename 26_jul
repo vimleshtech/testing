@@ -1,0 +1,39 @@
+-FR5	:
+-FR6	:
+-FR8	:
+
+Terms:
+===========================
+
+-> Defect Life Cycle
+	error vs bug vs defect 
+-> RTM 
+
+-> Priority and Serverity 
+
+-> DTR
+	->Reporting and Tracking
+
+
+
+
+*SRS
+*FR / FRS / FRD
+*BR / BRS / BRD
+		-> Test cases
+			->Test scenario
+
+*RTM 	: 
+
+	FR#	BR#	TESTCASE 	 TEST SCENARIO
+	------	------	--------------	--------------
+	FR1      BR1,BR2       1		 6
+	FR2      BR3           2		 1
+
+
+
+				
+		
+
+
+
