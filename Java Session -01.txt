@@ -1,0 +1,120 @@
+Todays' Topics
+=====================
+-> Overview Java
+-> Java Environment
+-> Project's Structure
+-> Keywords/Indentifier
+-> Syntax
+-> Hello World Program
+-> Data Type
+-> Operator
+-> Examples
+
+Overview Java
+=======================
+-> Java is programing language which is plateform independent (support oll operating 	system)
+-> Java is obeject oriented programing language 
+	
+-> There are following edition of java:
+	-J2SE	 : java 2 standard edition / core java 
+		-> console/command line 		**
+		-> Standalone application 
+			-ms word
+			-ms pp
+	-J2EE 	: java 2 enterprise edition 	/advane java 
+		->web application /site 
+
+	-J2ME 	: java 2 mobile edition / Replace by  Android 
+	-Other 	: Framwork
+		-JSF
+		-Spring
+		-Struts
+		-MVC
+		-Hibernate 
+		-Webservice 
+		
+	
+Java Environment
+====================================
+JDK : java developent kit 
+Version : 
+	10**, 1.9**,1.8**,1.7 .....
+
+
+	https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+
+
+Editor : IDE (integrated development environment)
+	-Eclipse	
+		-Oxygen		**
+		-Neon
+		-Mars
+		-Juno...
+	-Netbeans 
+	etc.
+	
+
+JDK's Components
+=======================
+Javac		: java compiler which convert java code to byte code.
+JVM, JIT	: java virtual machine 
+			-memory allocation 
+			-deallcoation 
+			-GC.
+		: JIT : just in time which is interpreter which convert byte code to 		native/machine code/binary code
+		   			
+JRE		: java runtime environment 
+
+
+
+Project's Structure		
+=======================
+FirstProject
+	-src		: source code 
+		-package1 : is collection of java files 			
+				class1.java
+				class2.java
+				...
+		-package2
+		-package3
+	
+	-jre		: java runtime environment / library 
+		
+
+
+Keywords/Indentifier 
+=============================
+package		: is reference of current folder/pacakge 
+public		: is access specifier / can be access from anywhere 
+class		: is wrapper of data member and functions 
+static		: static member, function can be access without object from anywhere
+		: single memory allocation 
+	
+void		: is no return 
+main		: is start function / predefined function 
+int		:  is data type for numeric 
+String		: is data type for alpha numeric 	
+if		: condtional 
+else
+switch
+for
+etc.
+
+Syntax
+==============
+//	: single line comment 
+
+/*
+	: multi line comments 	
+*/
+{}	: body of class, function , loop, condition 
+()	: function , condition , loop 
+[]	: array : collection of data or values 
+
+;	: termination of statement 
+
+**Java is case sensetive 
+
+
+
