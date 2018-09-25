@@ -1,0 +1,34 @@
+SDLC  : software development life cycle 
+==================
+SDLC Phases:
+Pre -> Inception  (proposal of the project, negotiations)
+	
+	
+	i. Requirment Gathering and Analysis  : by BA(business analyst)
+		-understanding of current system/working
+		-feasibility study
+		-analysis and cost/time/resource estimation 
+		-Documentations
+			-SRS  : software requirement sepecification 
+			-FR    : functional requirement 	
+			-BR    : business requirement 
+		
+	ii. Design		: by Software Architect 
+		-HLD 	: high level design
+		-LLD 	: low level design 
+
+	iii. Coding/Development/Implementation	: by Software Developr
+		-convert the pshedo code in executable version 
+		
+	iv. Testing / SQT( software quality testing)	: by Software Tester
+		->To verify the all requirement and test case/scenario in respect of SRS
+		Level of testing:
+			i. Unit Testing
+			ii. Integration Testing
+			iii. System Testing
+			iv. User Acceptence Testing 
+
+	v. Releas
+Post -> Maintaince 
+	
+ 
