@@ -1,0 +1,64 @@
+SDLC
+--------------
+Jira -> Story/task
+	->Backlog
+	->Sprint
+	
+Testcase Prepration
+----------------
+
+Today's Session
+================
+-SDLC Models
+	-Waterfall model	
+
+		:is sequenctial model works will be completed in sequence (next step will start after complition of previous step)
+	-Protype model
+		: is sample model; one sample project will be presented before start complete development 
+	
+	-Incremental/Iterative 
+		: work/build will be done in phases  
+	-Spiral model
+		: is very complex model; risk management/review process is alligned after every phase of sdlc 
+	-RAD	
+		: Rapid development model ; there is no documentation in this model 
+
+	-V-Model:
+		-is known validation and verfication  model.
+		-v-model is also known as extension of waterfall model 
+		-testing is associated with every phase of requirement gatering, design, and development 
+		
+	
+Agile Methodlogy:
+	-> is incremental and iterative model; agile is very adoptive model and client/user satisfication is first priority
+	-> There are following terminiloty in Agile methodlogy:
+		-Story
+		-Backlog
+		-Sprint
+		-Scrum Tools
+			-> Jira 
+		 
+	
+
+
+Next:
+==============
+Level of testing
+STLC
+Seven Principal of testing
+Bug Life Cycle
+Priority and Serverity 
+
+Next
+=============
+Type of testing 
+SRS
+FR
+BR
+RTM 
+
+
+Next
+==========
+Testcase execution 
+
